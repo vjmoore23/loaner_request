@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="" label="Loaner Request" language="en" table="x_snc_loaner_reque_loaner_request">
+    <sys_documentation element="end_date" label="End date" language="en" table="x_snc_loaner_reque_loaner_request">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element/>
+            <element>end_date</element>
             <help/>
             <hint/>
-            <label>Loaner Request</label>
+            <label>End date</label>
             <language>en</language>
             <name>x_snc_loaner_reque_loaner_request</name>
-            <plural>Loaner Requests</plural>
+            <plural>End dates</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-17 22:22:06</sys_created_on>
-            <sys_id>0f9d9f6e111713007f4431ee35702a61</sys_id>
+            <sys_created_on>2018-07-17 22:32:50</sys_created_on>
+            <sys_id>24102fae111713007f4431ee35702a0a</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Loaner Request</sys_name>
+            <sys_name>End date</sys_name>
             <sys_package display_value="Loaner Request" source="x_snc_loaner_reque">c942bea2111713007f4431ee35702aed</sys_package>
             <sys_policy/>
             <sys_scope display_value="Loaner Request">c942bea2111713007f4431ee35702aed</sys_scope>
-            <sys_update_name>sys_documentation_x_snc_loaner_reque_loaner_request__en</sys_update_name>
+            <sys_update_name>sys_documentation_x_snc_loaner_reque_loaner_request_end_date_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-17 22:22:06</sys_updated_on>
+            <sys_updated_on>2018-07-17 22:32:50</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

@@ -12,15 +12,15 @@
         <owner_condition/>
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-07-17 20:25:56</sys_created_on>
-        <sys_id>2d038fa6111713007f4431ee35702a7a</sys_id>
+        <sys_created_on>2018-07-17 22:22:06</sys_created_on>
+        <sys_id>cb9d9f6e111713007f4431ee35702a67</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_loaner_reque_loaner_request</sys_name>
         <sys_package display_value="Loaner Request" source="x_snc_loaner_reque">c942bea2111713007f4431ee35702aed</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">c942bea2111713007f4431ee35702aed</sys_scope>
-        <sys_update_name>ua_table_licensing_config_2d038fa6111713007f4431ee35702a7a</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_cb9d9f6e111713007f4431ee35702a67</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-07-17 20:25:56</sys_updated_on>
+        <sys_updated_on>2018-07-17 22:22:06</sys_updated_on>
     </ua_table_licensing_config>
 </record_update>

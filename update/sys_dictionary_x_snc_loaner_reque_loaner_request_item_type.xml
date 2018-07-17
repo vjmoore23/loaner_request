@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" extends="task" table="x_snc_loaner_reque_loaner_request">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="item_type" table="x_snc_loaner_reque_loaner_request">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
-        <calculation><![CDATA[(function calculatedFieldValue(current) {
-
-	// Add your code here
-	return '';  // return the calculated value
-
-})(current);]]></calculation>
-        <choice/>
+        <calculation/>
+        <choice>1</choice>
         <choice_field/>
         <choice_table/>
-        <column_label/>
+        <column_label>Item type</column_label>
         <comments/>
         <create_roles/>
-        <default_value/>
+        <default_value>cmdb_ci_mobile_device</default_value>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -28,12 +23,12 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element/>
+        <element>item_type</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="Collection">collection</internal_type>
+        <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
         <name>x_snc_loaner_reque_loaner_request</name>
@@ -53,16 +48,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-07-17 22:22:05</sys_created_on>
-        <sys_id>479d9f6e111713007f4431ee35702a59</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_snc_loaner_reque_loaner_request</sys_name>
+        <sys_created_on>2018-07-17 22:34:02</sys_created_on>
+        <sys_id>4a506fae111713007f4431ee35702a2d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Item type</sys_name>
         <sys_package display_value="Loaner Request" source="x_snc_loaner_reque">c942bea2111713007f4431ee35702aed</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">c942bea2111713007f4431ee35702aed</sys_scope>
-        <sys_update_name>sys_dictionary_x_snc_loaner_reque_loaner_request_null</sys_update_name>
+        <sys_update_name>sys_dictionary_x_snc_loaner_reque_loaner_request_item_type</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-07-17 22:22:05</sys_updated_on>
+        <sys_updated_on>2018-07-17 22:34:02</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

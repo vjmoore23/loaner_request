@@ -14,26 +14,26 @@
         <label>Loaner Request</label>
         <live_feed_enabled>false</live_feed_enabled>
         <name>x_snc_loaner_reque_loaner_request</name>
-        <number_ref display_value="LNR">6d038fa6111713007f4431ee35702a8c</number_ref>
+        <number_ref display_value="LNR">c39d9f6e111713007f4431ee35702a6d</number_ref>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class/>
+        <super_class display_value="Task" name="task">e650b964713203007f4484a32341d95b</super_class>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-07-17 20:25:54</sys_created_on>
-        <sys_id>86b28ba6111713007f4431ee35702aae</sys_id>
+        <sys_created_on>2018-07-17 22:22:05</sys_created_on>
+        <sys_id>847d5f6e111713007f4431ee35702a89</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Loaner Request</sys_name>
         <sys_package display_value="Loaner Request" source="x_snc_loaner_reque">c942bea2111713007f4431ee35702aed</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">c942bea2111713007f4431ee35702aed</sys_scope>
-        <sys_update_name>sys_db_object_86b28ba6111713007f4431ee35702aae</sys_update_name>
+        <sys_update_name>sys_db_object_847d5f6e111713007f4431ee35702a89</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-07-17 20:25:56</sys_updated_on>
+        <sys_updated_on>2018-07-17 22:22:06</sys_updated_on>
         <update_access>false</update_access>
-        <user_role display_value="x_snc_loaner_reque.loaner_request_user" name="x_snc_loaner_reque.loaner_request_user">05030ba6111713007f4431ee35702ab9</user_role>
+        <user_role display_value="x_snc_loaner_reque.loaner_request_user" name="x_snc_loaner_reque.loaner_request_user">fe9d5f6e111713007f4431ee35702a3b</user_role>
         <ws_access>true</ws_access>
     </sys_db_object>
 </record_update>

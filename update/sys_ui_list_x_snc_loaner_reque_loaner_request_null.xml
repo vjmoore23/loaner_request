@@ -4,17 +4,107 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_snc_loaner_reque_loaner_request" element="NULL" name="x_snc_loaner_reque_loaner_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f9354be6111713007f4431ee35702a47</list_id>
+            <list_id display_value="x_snc_loaner_reque_loaner_request" element="NULL" name="x_snc_loaner_reque_loaner_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">84a2a7ee111713007f4431ee35702a39</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-17 20:35:31</sys_created_on>
-            <sys_id>75354be6111713007f4431ee35702a48</sys_id>
+            <sys_created_on>2018-07-17 22:44:01</sys_created_on>
+            <sys_id>00a2a7ee111713007f4431ee35702a3a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-17 20:35:31</sys_updated_on>
+            <sys_updated_on>2018-07-17 22:44:01</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>priority</element>
+            <list_id display_value="x_snc_loaner_reque_loaner_request" element="NULL" name="x_snc_loaner_reque_loaner_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">84a2a7ee111713007f4431ee35702a39</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-17 22:44:01</sys_created_on>
+            <sys_id>84a2a7ee111713007f4431ee35702a3a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-17 22:44:01</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_snc_loaner_reque_loaner_request" element="NULL" name="x_snc_loaner_reque_loaner_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">84a2a7ee111713007f4431ee35702a39</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-17 22:44:01</sys_created_on>
+            <sys_id>04a2e7ee111713007f4431ee35702a33</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-17 22:44:01</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="x_snc_loaner_reque_loaner_request" element="NULL" name="x_snc_loaner_reque_loaner_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">84a2a7ee111713007f4431ee35702a39</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-17 22:44:01</sys_created_on>
+            <sys_id>84a2e7ee111713007f4431ee35702a33</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-17 22:44:01</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="x_snc_loaner_reque_loaner_request" element="NULL" name="x_snc_loaner_reque_loaner_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">84a2a7ee111713007f4431ee35702a39</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-17 22:44:01</sys_created_on>
+            <sys_id>08a2e7ee111713007f4431ee35702a33</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-17 22:44:01</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_class_name</element>
+            <list_id display_value="x_snc_loaner_reque_loaner_request" element="NULL" name="x_snc_loaner_reque_loaner_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">84a2a7ee111713007f4431ee35702a39</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-17 22:44:01</sys_created_on>
+            <sys_id>88a2e7ee111713007f4431ee35702a33</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-17 22:44:01</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>item_type</element>
+            <list_id display_value="x_snc_loaner_reque_loaner_request" element="NULL" name="x_snc_loaner_reque_loaner_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">84a2a7ee111713007f4431ee35702a39</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-17 22:44:01</sys_created_on>
+            <sys_id>0ca2e7ee111713007f4431ee35702a33</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-17 22:44:01</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -28,10 +118,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-17 20:35:31</sys_created_on>
+            <sys_created_on>2018-07-17 22:44:00</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>f9354be6111713007f4431ee35702a47</sys_id>
+            <sys_id>84a2a7ee111713007f4431ee35702a39</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_snc_loaner_reque_loaner_request</sys_name>
             <sys_package display_value="Loaner Request" source="x_snc_loaner_reque">c942bea2111713007f4431ee35702aed</sys_package>
@@ -39,7 +129,7 @@
             <sys_scope display_value="Loaner Request">c942bea2111713007f4431ee35702aed</sys_scope>
             <sys_update_name>sys_ui_list_x_snc_loaner_reque_loaner_request_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-17 20:35:31</sys_updated_on>
+            <sys_updated_on>2018-07-17 22:44:00</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
