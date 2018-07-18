@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="Loaner Request" max_length="40" name="x_snc_loaner_reque_loaner_request" type="collection">
+    <element extends="task" label="Loaner Request" max_length="40" name="x_snc_loaner_reque_loaner_request" sizeclass="6" type="collection">
+        <element attributes="edge_encryption_enabled=true, barcode=true" label="Asset barcode" max_length="40" name="asset_barcode" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" default="sc" label="Depot" max_length="40" name="depot" type="string">
             <choice>
                 <element label="New York" sequence="0" value="ny"/>
@@ -21,6 +22,7 @@
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Location to be used" max_length="40" name="location_to_be_used" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Other" max_length="40" name="other" type="string"/>
         <element label="Requested for" mandatory="true" max_length="32" name="requested_for" reference="sys_user" type="reference"/>
         <element label="Start date" mandatory="true" max_length="40" name="start_date" type="glide_date_time"/>
     </element>
