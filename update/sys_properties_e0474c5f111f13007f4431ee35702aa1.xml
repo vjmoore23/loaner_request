@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Number of hours to wait between overdue reminders.</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_snc_loaner_reque.overdue.remindtime</name>
+        <read_roles>x_snc_loaner_reque.admin</read_roles>
+        <suffix>overdue.remindtime</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-19 14:41:31</sys_created_on>
+        <sys_id>e0474c5f111f13007f4431ee35702aa1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_loaner_reque.overdue.remindtime</sys_name>
+        <sys_package display_value="Loaner Request" source="x_snc_loaner_reque">c942bea2111713007f4431ee35702aed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">c942bea2111713007f4431ee35702aed</sys_scope>
+        <sys_update_name>sys_properties_e0474c5f111f13007f4431ee35702aa1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-19 14:41:31</sys_updated_on>
+        <type>integer</type>
+        <value>24</value>
+        <write_roles>x_snc_loaner_reque.admin</write_roles>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=e0474c5f111f13007f4431ee35702aa1"/>
+</record_update>

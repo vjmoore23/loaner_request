@@ -43,6 +43,20 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-07-17 22:40:17</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-19 16:55:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c2f520d7115f13007f4431ee35702ad0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_loaner_reque_loaner_request" name="x_snc_loaner_reque_loaner_request" sys_domain="global" view="Default view">df81a3ee111713007f4431ee35702a33</sys_ui_form>
+            <sys_ui_section caption="Reminders" display_value="Reminders" name="x_snc_loaner_reque_loaner_request" sys_domain="global" view="Default view">4af520d7115f13007f4431ee35702acc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-19 16:55:12</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_snc_loaner_reque_loaner_request</name>
             <roles/>
