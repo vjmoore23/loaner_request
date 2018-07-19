@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="Loaner Request" max_length="40" name="x_snc_loaner_reque_loaner_request" sizeclass="6" type="collection">
+    <element extends="task" label="Loaner Request" max_length="40" name="x_snc_loaner_reque_loaner_request" sizeclass="18" type="collection">
         <element attributes="edge_encryption_enabled=true, barcode=true" label="Asset barcode" max_length="40" name="asset_barcode" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" default="sc" label="Depot" max_length="40" name="depot" type="string">
             <choice>
