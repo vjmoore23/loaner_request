@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Wait For Condition">d3f92c160b10030085c083eb37673a7f</action_type>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Loaner Laptop">0f9614c7115b13007f4431ee35702abd</flow>
+        <order>4</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-18 21:18:00</sys_created_on>
+        <sys_id>0e881cc7115b13007f4431ee35702ad2</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Loaner Request" source="x_snc_loaner_reque">c942bea2111713007f4431ee35702aed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">c942bea2111713007f4431ee35702aed</sys_scope>
+        <sys_update_name>sys_hub_action_instance_0e881cc7115b13007f4431ee35702ad2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-18 21:18:06</sys_updated_on>
+        <ui_id>d4f357a1-6264-4ecd-a643-21baa540a12d</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=0e881cc7115b13007f4431ee35702ad2"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>0e881cc7115b13007f4431ee35702ad2</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-18 21:18:00</sys_created_on>
+        <sys_id>0a881cc7115b13007f4431ee35702ad5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-18 21:18:00</sys_updated_on>
+        <value>state=18</value>
+        <variable display_value="">5ff92c160b10030085c083eb37673ac1</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>0e881cc7115b13007f4431ee35702ad2</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-18 21:18:00</sys_created_on>
+        <sys_id>ca881cc7115b13007f4431ee35702ad5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-18 21:18:00</sys_updated_on>
+        <value>x_snc_loaner_reque_loaner_request</value>
+        <variable display_value="">1ff92c160b10030085c083eb37673a81</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=0e881cc7115b13007f4431ee35702ad2"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>conditions</field>
+        <id>0e881cc7115b13007f4431ee35702ad2</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-18 21:18:00</sys_created_on>
+        <sys_id>02881cc7115b13007f4431ee35702ad5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-18 21:18:00</sys_updated_on>
+        <table>var__m_sys_hub_action_input_d3f92c160b10030085c083eb37673a7f</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record</field>
+        <id>0e881cc7115b13007f4431ee35702ad2</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-18 21:18:00</sys_created_on>
+        <sys_id>86881cc7115b13007f4431ee35702ad5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-18 21:18:00</sys_updated_on>
+        <table>var__m_sys_hub_action_input_d3f92c160b10030085c083eb37673a7f</table>
+        <value>{{Created or Updated_1.current}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>0e881cc7115b13007f4431ee35702ad2</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-18 21:18:00</sys_created_on>
+        <sys_id>c2881cc7115b13007f4431ee35702ad5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-18 21:18:00</sys_updated_on>
+        <table>var__m_sys_hub_action_input_d3f92c160b10030085c083eb37673a7f</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>

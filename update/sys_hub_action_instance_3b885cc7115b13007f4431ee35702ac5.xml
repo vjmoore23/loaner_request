@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Create Task">2b3a6335531003003bf1d9109ec58759</action_type>
+        <comment>Deployment Prep</comment>
+        <compiled_snapshot display_value="Create Task">2b3a6335531003003bf1d9109ec58759</compiled_snapshot>
+        <display_text/>
+        <flow display_value="Loaner Laptop">a7885cc7115b13007f4431ee35702ab8</flow>
+        <order>2</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-18 21:18:07</sys_created_on>
+        <sys_id>3b885cc7115b13007f4431ee35702ac5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Loaner Request" source="x_snc_loaner_reque">c942bea2111713007f4431ee35702aed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">c942bea2111713007f4431ee35702aed</sys_scope>
+        <sys_update_name>sys_hub_action_instance_3b885cc7115b13007f4431ee35702ac5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-18 21:18:07</sys_updated_on>
+        <ui_id>45693b7f-7119-4dfa-b7fc-53048c6055d5</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=3b885cc7115b13007f4431ee35702ac5"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>3b885cc7115b13007f4431ee35702ac5</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-18 21:18:07</sys_created_on>
+        <sys_id>77885cc7115b13007f4431ee35702ac8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-18 21:18:07</sys_updated_on>
+        <value>priority=3^short_description=Prepare the laptop for deployment.</value>
+        <variable display_value="">273a6335531003003bf1d9109ec5876b</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>3b885cc7115b13007f4431ee35702ac5</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-18 21:18:07</sys_created_on>
+        <sys_id>b3885cc7115b13007f4431ee35702ac8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-18 21:18:07</sys_updated_on>
+        <value>x_snc_loaner_reque_loaner_task</value>
+        <variable display_value="">e73a6335531003003bf1d9109ec5875c</variable>
+    </sys_variable_value>
+</record_update>

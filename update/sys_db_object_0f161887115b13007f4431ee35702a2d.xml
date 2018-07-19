@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Loaner Task</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_snc_loaner_reque_loaner_task</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <super_class display_value="Task" name="task">e650b964713203007f4484a32341d95b</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-18 21:08:34</sys_created_on>
+        <sys_id>0f161887115b13007f4431ee35702a2d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Task</sys_name>
+        <sys_package display_value="Loaner Request" source="x_snc_loaner_reque">c942bea2111713007f4431ee35702aed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">c942bea2111713007f4431ee35702aed</sys_scope>
+        <sys_update_name>sys_db_object_0f161887115b13007f4431ee35702a2d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-18 21:08:34</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_snc_loaner_reque.loaner_task_user" name="x_snc_loaner_reque.loaner_task_user">bf561887115b13007f4431ee35702a38</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>
